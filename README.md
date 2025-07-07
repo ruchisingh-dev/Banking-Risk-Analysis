@@ -74,8 +74,8 @@ The dataset comprises multiple interrelated tables, connected via primary and fo
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/banking-dashboard.git
-cd banking-dashboard
+git clone https://github.com/ruchisingh-dev/Banking-Risk-Analysis.git
+cd Banking-Risk-Analysis
 ```
 
 ### 📂 Project Structure
